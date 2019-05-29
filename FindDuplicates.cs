@@ -6,7 +6,7 @@ public class Program
 	public static void Main()
 	{
 		String input = "tutorial horizon";
-        FindDuplicate.findDuplicates(input);
+        	FindDuplicate.findDuplicates(input);
 	}
 }
 
